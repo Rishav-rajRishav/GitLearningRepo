@@ -7,5 +7,5 @@ int main(){
 		cout << i << "Hello" << endl;
 	}
 	cout << "Done with for loops" << endl;
-	cout << "hii";
+	cout << "hello";
 }
